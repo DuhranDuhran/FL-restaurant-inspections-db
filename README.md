@@ -10,10 +10,6 @@ The schema combines Florida DBPR (Department of Business and Professional Regula
 
 This was a group project for Relational Database Management and Design at Florida International University. I designed the database: the entity-relationship model, the relationships between entities, and the data types. `schema.sql` implements that design in Oracle.
 
-## Entity-relationship diagram
-
-![ERD](docs/erd.png)
-
 ## Schema overview
 
 | Table | Purpose |
