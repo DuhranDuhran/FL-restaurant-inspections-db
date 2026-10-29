@@ -62,4 +62,4 @@ Runs on Oracle Database, including the free [Oracle Live SQL](https://livesql.or
 
 ## Acknowledgments
 
-Group project with [teammate names]. Data collection, queries, and analysis were done by other team members.
+Data collection, queries, and analysis were done by other team members.
